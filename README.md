@@ -1,2 +1,2 @@
 # first-day-demo
-This a repo that hosts and example bit of code for the first day of coding bootcamp
+As a developer, I want to create a new GitHub repository and add an HTML file to it. 
